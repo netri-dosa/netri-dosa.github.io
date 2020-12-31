@@ -1,0 +1,50 @@
+- product:
+    name: PERI PERI
+    sku: peri peri
+    path: spicy_mix/periperi
+    type: spicy_mix
+    short_description: The international test we are offering.
+    description: DELICIOUS TASTE OF GARLIC AND A REDCHLLY.
+    sort_order: 1
+    image: images/products/1.jpg
+    category: Spicy Mix
+- product:
+    name: MAYSUR MASHALA 
+    sku: maysur mashala
+    path: spicy_mix/maysurmashala
+    type: spicy_mix
+    short_description: The trimendash test of maysur!
+    description: BIT CAN FILL THE TEST OF MAYSURYAN
+    sort_order: 2
+    image: images/products/2.jpg
+    category: Spicy Mix
+- product:
+    name: SEZWAN
+    sku: sezwan
+    path: spicy_mix/sezwan
+    type: spicy_mix
+    short_description: This is the indo Chinese recipe.
+    description: sezwannnnn is so yummy the feeling of indo Chinese recipes. We had tried to give it a slightly the pach of Mexican.
+    sort_order: 3
+    image: images/products/3.jpg
+    category: Spicy Mix
+- product:
+    name: SHAMBHAR MASHALA 
+    sku: sambharmashala
+    path: spicy_mix/shambharmashala
+    type: spicy_mix 
+    short_description: The real South Indian test!
+    description: WE TRIED TO RICH SOUTH INDIAN TESST AS CLOSE AS WE CAN.
+    sort_order: 4
+    image: images/products/4.jpg
+    category: Spicy Mix
+- product:
+    name: PIZZA 
+    sku: spicypizza
+    path: spicy_mix/pizza 
+    type: spicy_mix
+    short_description: Test of pizaa!
+    description: DELICIOUS TASTE OF GARLIC AND A REDCHLLY.
+    sort_order: 5
+    image: images/products/5.jpg
+    category: Spicy Mix
